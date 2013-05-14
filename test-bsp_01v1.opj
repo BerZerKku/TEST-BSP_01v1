@@ -155,13 +155,23 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -4 -23 110 838 110 553")
-        (Scroll "180 10")
+        (Placement "44 0 1 -1 -1 -4 -23 110 838 110 553")
+        (Scroll "180 70")
         (Zoom "100")
         (Occurrence "/A1"))
       (Path "E:\ORCAD_SCH\OTHER\TEST-BSP_01V1\TEST-BSP_01V1.DSN")
       (Schematic "A - RS232")
-      (Page "A - RS232")))
+      (Page "A - RS232"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 66 794 66 509")
+        (Scroll "-25 -11")
+        (Zoom "75")
+        (Occurrence "/D1"))
+      (Path "E:\ORCAD_SCH\OTHER\TEST-BSP_01V1\TEST-BSP_01V1.DSN")
+      (Schematic "D - DATA_BUS_LED")
+      (Page "D - DATA_BUS_LED")))
   (PartMRUSelector
     (RES_0.125W
       (FullPartName "RES_0.125W.Normal")
