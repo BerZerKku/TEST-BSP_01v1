@@ -145,9 +145,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -4 -23 22 768 22 483")
-        (Scroll "0 0")
-        (Zoom "75")
+        (Placement "44 2 3 -1 -1 -4 -23 22 768 22 483")
+        (Scroll "0 478")
+        (Zoom "150")
         (Occurrence "/"))
       (Path "E:\ORCAD_SCH\OTHER\TEST-BSP_01V1\TEST-BSP_01V1.DSN")
       (Schematic "SCHEMATIC1")
@@ -165,8 +165,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -4 -23 66 794 66 509")
-        (Scroll "-25 -11")
+        (Placement "44 0 1 -1 -1 -4 -23 66 794 66 509")
+        (Scroll "0 0")
         (Zoom "75")
         (Occurrence "/D1"))
       (Path "E:\ORCAD_SCH\OTHER\TEST-BSP_01V1\TEST-BSP_01V1.DSN")
